@@ -7,8 +7,8 @@ class GFG
 public:
 GFG()
 {
-    name = "Om More";
-    roll = 45;
+    name = "Stuti Heble";
+    roll = 15;
     cout << "Default constructor called " "";
 }
 void display()
