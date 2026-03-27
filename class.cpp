@@ -18,10 +18,10 @@ public:
 
 int main() {
     FYsoc info;
-    info.name = "Om";
-    info.enroll = "ADT25SOCB0724";
+    info.name = "Stuti";
+    info.enroll = "ADT25SOCB1350";
     info.dept = "SOC FY";
-    info.mno = "9172460997";
+    info.mno = "7666332001";
     cout << "info" << endl;
     info.displayInfo();
 
